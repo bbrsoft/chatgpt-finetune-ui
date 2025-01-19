@@ -16,4 +16,4 @@ streamlit run main.py --server.port 8001 --server.address 0.0.0.0
 ```
 
 ## Experimental Demo
-[http://system2.space:8001](http://system2.space:8001)
+[http://bbrsoft.space:8001](http://bbrsoft.space:8001)
